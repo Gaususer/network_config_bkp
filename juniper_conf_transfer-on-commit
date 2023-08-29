@@ -1,0 +1,4 @@
+config private
+set system archival configuration archive-sites "ftp://login@IP" password "P@sswd1"
+set system archival configuration transfer-on-commit
+commint and-exit
